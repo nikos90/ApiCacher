@@ -6,7 +6,7 @@
  * Time: 9:55
  */
 
-namespace HSpace\ApiCacherBundle\Helpers;
+namespace HSpace\ApiCacher\Helpers;
 
 
 class Curl

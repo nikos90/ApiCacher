@@ -15,10 +15,12 @@
     },
     "autoload": {
         "psr-4": {
+
             "HSpace\\ApiCacher\\": "src"
         },
         "psr-0": {
             "HSpace\\ApiCacher\\": "src"
         }
+
     }
 }

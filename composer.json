@@ -19,7 +19,6 @@
         },
         "psr-0": {"HSpace\\ApiCacher": "src"
         }
-
-
+        
     }
 }

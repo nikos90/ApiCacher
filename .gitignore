@@ -1,0 +1,3 @@
+/Cache/*
+/vendor/HSpace/vendor
+composer.lock
